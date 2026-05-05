@@ -1,0 +1,157 @@
+Starting Frontend-Only test with 50 rows...
+Frontend loaded successfully.
+Testing [Row 2]: suba udasanak wewa
+  -> Actual output: සුබ උදසනක් වේවා
+  -> FAIL
+Testing [Row 3]: oya koheda inne? mama danne na oya koheda giye kiyala.
+  -> Actual output: ඔයා කොහෙද ඉන්නේ? මම දන්නේ නෑ ඔයා කොහෙද ගියේ කියලා.
+  -> FAIL
+Testing [Row 4]: eka denna mata.
+  -> Actual output: ඒක දෙන්න මට.
+  -> FAIL
+Testing [Row 5]: api heta subodhi pansalata yanawa, oyath ennam kiyala ammata kiyanna.
+  -> Actual output: අපි හෙට සුබෝධි පන්සලට යනවා, ඔයත් එන්නම් කියලා අම්මට කියන්න.
+  -> FAIL
+Testing [Row 6]: kohomada machan, hodata innawada?
+  -> Actual output: කොහොමද මචං, හොදට ඉන්නවද?
+  -> FAIL
+Testing [Row 7]: ane! oyage nama mokakda?
+  -> Actual output: අනේ! ඔයාගෙ නම මොකක්ද?
+  -> FAIL
+Testing [Row 8]: mama ada office giya bus eken, habai meeting eka late una.
+  -> Actual output: මම අද office ගියා bus එකෙන්, හැබැයි meeting එක late වුණා.
+  -> FAIL
+Testing [Row 9]: oyata puluwan nam mage assignment eka poddak check karanna, submision heta.
+  -> Actual output: ඔයාට පුළුවන් නම් මගේ assignment එක පොඩ්ඩක් check කරන්න, submision හෙට.
+  -> FAIL
+Testing [Row 10]: oyage charger eke pin eka mokakda?
+  -> Actual output: ඔයාගේ චාර්ගේර් එකේ පින් එක මොකක්ද?
+  -> FAIL
+Testing [Row 11]: email@test.com
+  -> Actual output: email@test.කොම්
+  -> FAIL
+Testing [Row 12]: me dhavas vala mama Springboot igenaganimin innee.
+  -> Actual output: මේ දවස් වල මම ස්ප්රින්ග්බොට් ඉගෙනගනිමින් ඉන්නේ.
+  -> FAIL
+Testing [Row 13]: mama Iphone ekak gaththa palaveni vathaava nisaa thaama meeka mata huru naha
+  -> Actual output: මම iPhone එකක් ගත්තා පලවෙනි වතාව නිසා තාම මේක මට හුරු නැහැ
+  -> FAIL
+Testing [Row 14]: api yanawa... oya enawada?
+  -> Actual output: අපි යනවා... ඔයා එනවද?
+  -> FAIL
+Testing [Row 15]: ane! eyaa aawa, api hodata kamu. ok?
+  -> Actual output: අනේ! එයා ආවා, අපි හොදට කමු. ඔක්?
+  -> FAIL
+Testing [Row 16]: karuNaakarala me documents tika testuser123@gmail.com ekata send karanna
+  -> Actual output: කරුණාකරලා මේ documents ටික testuser123@gmail.කොම් එකට සෙන්ඩ් කරන්න
+  -> FAIL
+Testing [Row 17]: mn heta office yanna ona, bt mata enna bahe kiyala kiwwa.
+  -> Actual output: මන් හෙට office යන්න ඕන, බත් මට එන්න බත් කියලා කිව්වා.
+  -> FAIL
+Testing [Row 18]: api nimalge birthday gift ekata nike sapaththu dekak demuda?
+  -> Actual output: අපි නිමල්ගේ birthday gift එකට නිකේ සපත්තු දෙකක් දෙමුද?
+  -> FAIL
+Testing [Row 19]: e denna godak badu sale krl thibba me sare
+  -> Actual output: ඒ දෙන්නා ගොඩක් බඩු සාලේ කරලා තිබ්බා මේ සැරේ
+  -> FAIL
+Testing [Row 20]: oba thuma gena aa bhanda methnin thabanna
+  -> Actual output: ඔබ තුමා ගැන ආ භාණ්ඩ මෙතනින් තබන්න
+  -> FAIL
+Testing [Row 21]: Ghn blpn mkd wela tynne kyla dnma, methana inna epa!!
+  -> Actual output: ගහන බලපන් මොකද වෙලා තියෙන්නේ කියලා දැන්ම, මෙතන ඉන්න එපා!!
+  -> FAIL
+Testing [Row 22]: Mokakda me prashne, oya eka lokuwata hithanawada nattam podiwatada?
+  -> Actual output: මොකක්ද මේ ප්‍රශ්නේ, ඔයා ඒක ලොකුවට හිතනවද නට්ටම් පොඩිවටද?
+  -> FAIL
+Testing [Row 23]: mama screenshot ekak gatta, eyage profile ekata giya welawa.
+  -> Actual output: මම screenshot එකක් ගත්තා, එයාගේ ප්රොෆිල් එකට ගිය වෙලාව.
+  -> FAIL
+Testing [Row 24]: mama Instagram eke story ekak dammaa, oya dakkada?
+  -> Actual output: මම Instagram එකේ story එකක් දැම්මා, ඔයා දැක්කද?
+  -> FAIL
+Testing [Row 25]: heta Zoom call ekak thiyenawa, Google Meet use karanawa kiyala kiwwa.
+  -> Actual output: හෙට Zoom call එකක් තියෙනවා, Google Meet use කරනවා කියලා කිව්වා.
+  -> FAIL
+Testing [Row 26]: API eka broken wela thiyenawa, IT team ekata kiyanna.
+  -> Actual output: API ඒක බ්රෝකෙන් වෙලා තියෙනවා, IT team එකට කියන්න.
+  -> FAIL
+Testing [Row 27]: CV eka update karala HR ekata ewanna kiwwa ASAP.
+  -> Actual output: CV ඒක update කරලා HR ඒකට එවන්න කිව්වා ASAP.
+  -> FAIL
+Testing [Row 28]: uni eke sub eka submit karanna last date eka koheda?
+  -> Actual output: උනි එකේ sub එක submit කරන්න last date එක කොහෙද?
+  -> FAIL
+Testing [Row 29]: doc eka print karanna giya welawa net baadha wuna.
+  -> Actual output: ඩොක් එක ප්රින්ට් කරන්න ගිය වෙලාව නෙට් බාධා වුණා.
+  -> FAIL
+Testing [Row 30]: api Colombo 7 kiyanawa, oya dannawada koheda thiyenawa kiyala.
+  -> Actual output: අපි Colombo 7 කියනවා, ඔයා දන්නවද කොහෙද තියෙනවා කියලා.
+  -> FAIL
+Testing [Row 31]: Kandy Road eken enna kota Peradeniya Junction eka pass wenna.
+  -> Actual output: Kandy Road එකෙන් එන්න කොට Peradeniya Junction එක pass වෙන්න.
+  -> PASS
+Testing [Row 32]: sara sara gala eka iwrtma iwra una.
+  -> Actual output: සාරා සාරා ගාල එක ඉවරටම ඉවර උනා.
+  -> FAIL
+Testing [Row 33]: Dilrukshi saha Sanduni dennama new project ekata select wunaada kiyala ahuw?
+  -> Actual output: Dilrukshi සහ Sanduni දෙන්නම new project එකට select වුණාද කියලා ඇහුවා?
+  -> FAIL
+Testing [Row 34]: Mage repo eka balanna github.com/user/repo gihilla, @admin tag karanna.
+  -> Warning: Output did not appear within 30 seconds
+  -> Actual output: 
+  -> FAIL
+Testing [Row 35]: oyage order eka 2nd attempt eke dispatch wuna, 3-5 days athulatha enna ona.
+  -> Actual output: ඔයාගේ order එක 2nd attempt එකේ dispatch වුණා, 3-5 දවස් ඇතුලත එන්න ඕන.
+  -> FAIL
+Testing [Row 36]: ehema nwyi yko wenne kyla thruna neda dnwt.ehema nwyi yko wenne kyla thruna neda dnwt.
+  -> Actual output: එහෙම න්වයි යකෝ වෙන්නේ කියලා තුන නේද දන්නවාට.එහෙම න්වයි යකෝ වෙන්නේ කියලා තුන නේද දන්නවාට.
+  -> FAIL
+Testing [Row 37]: ela ela, api yamu danma nattam godak parakku wei.
+  -> Actual output: එල එල, අපි යමු දැන්ම නට්ටම් ගොඩක් පරක්කු වෙයි.
+  -> FAIL
+Testing [Row 38]: lecture eka 8.00am start wela 10.30am nimei kiyala thibba schedule eke.
+  -> Actual output: lecture එක 8.00am start වෙලා 10.30am නිමැයි කියලා තිබ්බා schedule එකේ.
+  -> FAIL
+Testing [Row 39]: mn dnne na meka.
+  -> Actual output: මන් දන්නේ නෑ මේක.
+  -> FAIL
+Testing [Row 40]: mata crctma answr eka onh.
+  -> Actual output: මට crctම answr එක ඕනේ.
+  -> FAIL
+Testing [Row 41]: Ada mara chater dawasa 😩 mata kiyala wedak na 😡.
+  -> Actual output: අද මාර චාටර් දවස  මට කියලා වැඩක් නෑ 🤣.
+  -> FAIL
+Testing [Row 42]: e building eka usa meters 45k witharai, Colombo loku building ekak.
+  -> Actual output: ඒ building එක උස meterස් 45ක් විතරයි, Colombo ලොකු building එකක්.
+  -> FAIL
+Testing [Row 43]: mata oyage LinkedIn profile link eka ewanna, job ekt apply karanna.
+  -> Actual output: මට ඔයාගේ LinkedIn profile link එක එවන්න, job එකට apply කරන්න.
+  -> PASS
+Testing [Row 44]: doc kwwa beheth bonna kyla.
+  -> Actual output: ඩොක්ස් කිව්වා බෙහෙත් බොන්න කියලා.
+  -> FAIL
+Testing [Row 45]: Elakiri bro 🔥
+  -> Actual output: එළකිරි bro 🔥
+  -> PASS
+Testing [Row 46]: whtsapp cl ekak gnna mta.
+  -> Actual output: whtsapp call එකක් ගන්න මට.
+  -> FAIL
+Testing [Row 47]: Machan, mama heta hawasa 5:30 PM weddi Colombo walata enawa. Mata Rs. 15000k vithara transfer karanna puluwanda urgent wadakata? Account details mama Wtspp karannam. Heta udema 8.00 AM meeting ekak thiyenawa Zoom eke, eka iwara wela mama direct office ennam. Oya @Nimal ta kiyanna mage presentation file eka ready karala thiyanna kiyala, ara last week eke discuss karapu Q3 financial report eka.
+  -> Warning: Output did not appear within 30 seconds
+  -> Actual output: 
+  -> FAIL
+Testing [Row 48]: api gamu 😊 hodai ne?
+  -> Actual output: අපි ගමු හොඳයි නේ?
+  -> FAIL
+Testing [Row 49]: eyaa nikan aawa na machan 😤 mama godak awith balapu eka.
+  -> Actual output: එයා නිකන් ආවා නෑ මචන්  මම ගොඩක් ඇවිත් බලපු එක.
+  -> FAIL
+Testing [Row 50]: oya api ekka enna hadapu plan eka cancel wunada? mokakda une seriously?
+  -> Warning: Output did not appear within 30 seconds
+  -> Actual output: 
+  -> FAIL
+Testing [Row 51]: bro mama godak try kala, bt api denna eka fail wuna. Nikan wage denna meka hodai kiyala hithuwe na, godak time gatta api denna ekka work karanna, finally meka wage wena kota sad. Next time hodatama plan karamu saha communication keep karamu ok? Don't give up, api wenata denna aluth chance ekak thibba na wages.
+  -> Warning: Output did not appear within 30 seconds
+  -> Actual output: 
+  -> FAIL
+Keeping browser open. Press CTRL+C to stop.
